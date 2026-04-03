@@ -27,7 +27,7 @@ AcademiaSuite is an offline application designed to manage academic processes an
 
 1. **Clone the Repository**
 
-   git clone https://github.com/AsjadJDawre/AcademiaSuite.git
+   git clone https://github.com/RajPakhurde/ExamSync.git
    cd AcademiaSuite/Frontend/academiasuite
 2.**Install Dependencies:** Ensure you have Node.js and npm installed. Then, install the project dependencies:
 npm install
