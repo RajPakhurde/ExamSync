@@ -1,4 +1,4 @@
-# AcademiaSuite
+# ExamSync
 
 AcademiaSuite is an offline application designed to manage academic processes and convert DBF files to Excel. It features a user-friendly interface built with React and uses SQLite for local data storage. The application supports various functionalities, including managing subject information and displaying academic data.
 
